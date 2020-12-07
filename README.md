@@ -3,8 +3,7 @@
 # Machine learning
 <!--italic-->
 *Machine learing* (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so.
-Machine learning [algorithms]
-(https://whatis.techtarget.com/definition/algorithm?_ga=2.248874951.1944919196.1607359533-737445721.1607359533)
+Machine learning [algorithms](https://whatis.techtarget.com/definition/algorithm?_ga=2.248874951.1944919196.1607359533-737445721.1607359533)
 use historical data as input to predict new output values.
 
 <!--Heading-->

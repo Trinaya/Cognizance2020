@@ -54,4 +54,4 @@ Reinforcement learning works by [programming an algorithm](https://searchenterpr
     Resource management. Given finite resources and a defined goal, reinforcement learning can help enterprises plan how to allocate resources.
 </p>
 <!--Images-->
-![machine learning and deep learning](https://searchenterpriseai.techtarget.com/definition/machine-learning-ML#:~:text=Machine%20learning%20(ML)%20is%20a,to%20predict%20new%20output%20values.)
+![machine learning](https://searchenterpriseai.techtarget.com/definition/machine-learning-ML#:~:text=Machine%20learning%20(ML)%20is%20a,to%20predict%20new%20output%20values.)

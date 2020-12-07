@@ -4,9 +4,10 @@
 <!--italic-->
 <!--Links-->
 *Machine learing* (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning
-[algorithms](https://whatis.techtarget.com/definition/algorithm?_ga=2.248874951.1944919196.1607359533-737445721.1607359533)
+(https://whatis.techtarget.com/definition/algorithm?_ga=2.248874951.1944919196.1607359533-737445721.1607359533"algorithms")
 use historical data as input to predict new output values.
-<p>[Recommendation engines](https://whatis.techtarget.com/definition/recommendation-engine?_ga=2.84938585.1944919196.1607359533-737445721.1607359533)
+<p>[](https://whatis.techtarget.com/definition/recommendation-engine?_ga=2.84938585.1944919196.1607359533-737445721.1607359533)
+<p>(https://whatis.techtarget.com/definition/recommendation-engine?_ga=2.84938585.1944919196.1607359533-737445721.1607359533"")
 are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and predictive maintenance.</p>
 <!--Heading-->
 ##Types of machine learning

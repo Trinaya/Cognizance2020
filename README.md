@@ -11,7 +11,7 @@ use historical data as input to predict new output values.
 are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and predictive maintenance.</p>
 <!--Heading-->
 <p>
-## Types of machine learning
+# Types of machine learning
 <!--UL-->
 Supervised learning
     UnSupervised learning

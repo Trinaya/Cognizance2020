@@ -53,4 +53,4 @@ Reinforcement learning works by [programming an algorithm](https://searchenterpr
     Video gameplay. Reinforcement learning has been used to teach bots to play a number of video games.
     Resource management. Given finite resources and a defined goal, reinforcement learning can help enterprises plan how to allocate resources.
 </p>
-![alt text](https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
+![alt_text](https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
